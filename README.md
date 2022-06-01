@@ -1,4 +1,4 @@
-# VoiceBotForCorporateBanking
+# Voice Bot For Corporate Banking
 Created a Voice Bot for Corporate Channels (Fusion Corporate Channels- FCC) using Python libraries: speech-recognition, pyttsx3, pyaudio and used the library mysql-connector to connect to MySQL database.
 
 About Fusion Corporate Channels:
