@@ -3,3 +3,5 @@ Created a Voice Bot for Corporate Channels (Fusion Corporate Channels- FCC) usin
 
 About Fusion Corporate Channels:
 Fusion Corporate Channels- FCC (a Finastra Product) is a platform which unifies various solutions provided by Finastra at one place to provide the clients a seemless experience. Some of the major functions under FCC are Account Services, Cash Services, Trade Services, Lending Services, Treasury Services, etc.
+
+PFA with the PPT attached for detailed information (VoiceBotForCorporateBanking-Hackathon.pptx)
